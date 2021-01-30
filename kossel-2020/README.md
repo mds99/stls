@@ -5,4 +5,6 @@ It's an orkish low-budget build, so some parts will be improvised and changed.
 i.e. no off-the-shelf linear rails - 2020 vertical pillars will be guides. I've built couple machines like this, so it will be working ok.
 
 I don't really like some parts from original models as they are quite fragile and do not really serve for structural stability at all or delaminate easily. 
-Updated parts i'll put here. 
+Updated parts i'll put here.
+
+kossel-2020-top - made some walls thicker. bearing hole for 5mm stud (original 3mm is too optimistic on 2020). Added vertical holes for greater part strength. 
